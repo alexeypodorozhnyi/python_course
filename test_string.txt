@@ -1,0 +1,1 @@
+This is string we gonna iterate. Import from file. Export inro file.
